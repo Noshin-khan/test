@@ -22,7 +22,7 @@ public class task1 {
         System.out.println("Total marks: " + totalMarks);
         System.out.println("Average percentage : " + averagePercentage);
 
-        if(averagePercentage >= 90)
+        if(averagePercentage<=100)
         {
             System.out.println("Grade A");
         }
